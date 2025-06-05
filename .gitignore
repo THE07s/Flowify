@@ -68,3 +68,18 @@ processed/
 
 # Logs
 *.log
+
+# Flowify specific
+audio.aac
+output_*
+*_interpolated_*
+*fps_to_*fps.*
+
+# Large video files (optionnel - décommenter si nécessaire)
+# *.mp4
+# *.mov
+# *.avi
+# *.mkv
+
+# Test outputs
+test_output/
